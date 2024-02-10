@@ -1,0 +1,143 @@
+body {
+    background-color: #1e1e1d;
+    color: white;
+    font-family: 'Azeret Mono', monospace;
+}
+.navbar {
+    background-color: #383838;
+}
+
+
+.navbar-toggler-icon {
+    color: white !important;
+}
+.nav-link {
+    color: white;
+}
+.nav-link:hover {
+    color: white;
+}
+.nav-item:hover {
+    font-weight: bolder;
+    font-style: italic;
+}
+.dropdown {
+    color: white;
+}
+.editable-text {
+    border: none;
+    outline: none;
+    background-color: transparent;
+    cursor: text;
+    padding: 0;
+}
+#intro {
+    margin: 0;
+    height: auto;
+}
+
+.image {
+    flex: 1; /* Take up available space */
+}
+.column {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+#kite_div{
+    padding-top: 20px;
+}
+#name {
+    padding-top: 30px;
+    padding-bottom: 15px;
+}
+#position {
+    margin-top: -5px;
+}
+.important_text {
+    font-weight: bolder;
+    /*font-style: italic;*/
+}
+.important_text:hover{
+    font-style: italic;
+}
+#class_list {
+    padding-left: 20px;
+}
+.picture_div {
+    position: relative;
+    display: inline-block;
+}
+.caption{
+    position: absolute;
+    bottom: 0;
+    padding: 10px 10px 10px 12px;
+    font-size: larger;
+    font-style: italic;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Optional: Add shadow to text */
+}
+.text_content{
+    background-color: #383838;
+    border: 1px black;
+    padding: 15px;
+    border-radius: 10px;
+}
+/*TODO(fix padding for pictures)*/
+#intro_container {
+    padding:0;
+    margin:0;
+    max-width: 100%;
+}
+#intro_row {
+    margin: 0;
+}
+#contact_me_header{
+    padding-top: 76px; /* Adjust this value according to the height of your navbar */
+    margin-top: -76px; /* Adjust this value to offset the padding */
+
+}
+.my_container {
+    padding:0;
+    margin:0;
+    max-width: 100%;
+}
+.my_row {
+    margin: 0;
+}
+.fit-image {
+    max-width: 100%;
+    height: auto;
+}
+#succulent_pic {
+
+}
+#intro_description_1{
+    padding: 0;
+    margin: 0;
+}
+.project_link {
+    text-decoration: underline;
+    cursor: pointer;
+    color: white;
+}
+.project_link:hover{
+    font-weight: bolder;
+    font-style: italic;
+}
+.frame {
+    /*border: 50px solid white; !* Adjust the thickness of the border *!*/
+}
+.section {
+    height: auto;
+    overflow-y: auto; /* Enable vertical scrolling if content exceeds viewport height */
+    /* Add padding for better readability */
+    padding: 56px 26px;
+}
+
+#experiences_col {
+    padding: 20px;
+}
+
+/* Optional: Add styling for sections */
+#section2 {
+    background-color: #e0e0e0;
+}

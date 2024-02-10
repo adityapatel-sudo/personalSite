@@ -1,0 +1,6 @@
+This favicon was generated using the following font:
+
+- Font Title: Sometype Mono
+- Font Author: Copyright 2018 The Sometype Mono Project Authors (https://github.com/googlefonts/sometype-mono)
+- Font Source: http://fonts.gstatic.com/s/sometypemono/v1/70lGu745KGk_R3uxyq0WrROhAJiJsJ_eTWllpTAMGE9agQBbs7uG.ttf
+- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL))
